@@ -93,7 +93,7 @@ print("Revenue share by country:", customer_country_revenue_share)
 print("Sorted customers by revenue:", sorted_customers_by_revenue[:10])
 
 # =====================
-# COUNTRY DATASET
+# COUNTRY ANALYSIS
 # =====================
 
 country_query = """
@@ -165,7 +165,7 @@ print("Sorted countries by revenue:", sorted_countries_by_revenue)
 print("Country efficiency:", country_efficiency)
 
 # =====================
-# PRODUCT DATASET
+# PRODUCT ANALYSIS
 # =====================
 
 product_query = """
