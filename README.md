@@ -74,3 +74,9 @@ Python (analysis and metrics)
 To generate the dataset locally run:
 
 python scripts/generate_data.py
+
+## Run Analysis
+
+After generating the dataset run:
+
+python python/analysis.py
